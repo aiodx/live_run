@@ -111,3 +111,9 @@ A Work Package is ready for its owner's review when every item on this checklist
 - [ ] The experience is repeatable without a page reload.
 - [ ] No feature, element, or behaviour is present that is not described in the overview or directly required to deliver what is described. Any addition has been raised to and agreed by the Conductor before it was built.
 - [ ] The Work Package owner has read the output against the principles — Feedback is the product; One interaction, no friction; Correct beats clever — and found no conflict.
+
+---
+
+## Settled questions
+
+**Arithmetic operation:** The operation is addition. This is confirmed by the Conductor and is not an open question. Every role builds against it. No role may re-raise this question.

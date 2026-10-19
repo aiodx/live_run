@@ -1,4 +1,3 @@
 <!-- earn:nodes -->
-- subject: delivery_unit | name: Screen and Interaction
-- subject: delivery_unit | name: Feedback Visuals
+- settle: 41d7c6cf-e829-4922-b0e7-f4bd20a58483 | rework
 <!-- /earn:nodes -->

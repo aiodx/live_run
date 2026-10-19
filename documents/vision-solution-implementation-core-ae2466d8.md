@@ -1,11 +1,11 @@
 ## Purpose
-This project exists to give anyone a simple, delightful screen for practising basic arithmetic: two numbers are shown, the user types their answer, presses a button, and the screen responds immediately — celebration visuals if correct, a sad dog if wrong. The point is instant, emotionally clear feedback that makes the act of answering feel worth doing.
+This project exists to give anyone a simple, delightful screen for practising addition: two numbers are shown, the user types their answer, presses a button, and the screen responds immediately — celebration visuals if correct, a sad dog if wrong. The point is instant, emotionally clear feedback that makes the act of answering feel worth doing.
 
 ## Who it is for
 Anyone who wants to practise number skills at a screen — a child doing homework, a teacher running a quick classroom exercise, or a curious adult. What changes for them: they get an answer to "was I right?" the moment they press the button, delivered not as a dry tick or cross but as a small moment of joy or commiseration.
 
 ## What done looks like
-A working screen exists. A user can see two numbers, type a value into an answer field, and press the Answer button. If the value is correct, celebration visuals play. If it is wrong, sad dog visuals play. No further action is required from the user to trigger the response. The experience is self-contained and repeatable.
+A working screen exists. A user can see two numbers, type a value into an answer field, and press the Answer button. If the value matches the sum of the two numbers, celebration visuals play. If it is wrong, sad dog visuals play. No further action is required from the user to trigger the response. The experience is self-contained and repeatable.
 
 ## What this project is not
 - It is not a full arithmetic curriculum or quiz platform: there is no scoring, no progression, no levels, and no history.

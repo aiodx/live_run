@@ -47,7 +47,7 @@ the situations in which a role must stop and ask rather than decide.
 
 A role must stop and ask the Conductor — not decide alone — when:
 
-- The correct arithmetic operation is in doubt. The overview assumes addition; if any role encounters a reason to question this, it asks before building evaluation logic.
+- The arithmetic operation is confirmed as addition by the Conductor; this is settled and must not be re-raised.
 - The source or range of the two numbers is unclear. The overview assumes the application sets them; if a role needs to know how they are generated or what values are valid, it asks.
 - An assumption in the overview appears to be wrong. No role corrects an assumption silently; it raises and waits.
 - A dependency between units is broken — for example, if Unit 2 cannot attach to what Unit 1 produced. The role raises rather than redesigning the interface unilaterally.
